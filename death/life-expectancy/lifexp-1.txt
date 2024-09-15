@@ -1,0 +1,110 @@
+| Name                               | Min | Max |
+| ---------------------------------- | --- | --- |
+| Afghan Hound                       | 12  | 18  |
+| Akita                              | 10  | 14  |
+| Alaskan Klee Kai                   | 13  | 16  |
+| Alaskan Malamute                   | 10  | 14  |
+| American Bulldog                   | 10  | 12  |
+| American Eskimo Dog                | 13  | 15  |
+| American Hairless Terrier          | 14  | 16  |
+| American Leopard Hound             | 12  | 15  |
+| American Staffordshire Terrier     | 12  | 16  |
+| American Water Spaniel             | 10  | 14  |
+| Anatolian Shepherd Dog             | 11  | 13  |
+| Australian Cattle Dog              | 12  | 16  |
+| Australian Shepherd                | 12  | 15  |
+| Barbet                             | 12  | 14  |
+| Basenji                            | 13  | 14  |
+| Basset Hound                       | 12  | 13  |
+| Beagle                             | 10  | 15  |
+| Beauceron                          | 10  | 12  |
+| Belgian Malinois                   | 14  | 16  |
+| Bergamasco Sheepdog                | 13  | 15  |
+| Berger Picard                      | 12  | 13  |
+| Bernese Mountain Dog               | 7   | 10  |
+| Bichon Frise                       | 14  | 15  |
+| Bloodhound                         | 10  | 12  |
+| Boerboel                           | 9   | 11  |
+| Bolognese                          | 12  | 14  |
+| Border Collie                      | 12  | 15  |
+| Borzoi                             | 9   | 14  |
+| Boston Terrier                     | 11  | 13  |
+| Boxer                              | 10  | 12  |
+| Bracco Italiano                    | 10  | 14  |
+| Brittany                           | 12  | 14  |
+| Bull Terrier                       | 12  | 13  |
+| Bullmastiff                        | 7   | 9   |
+| Cane Corso                         | 9   | 12  |
+| Cardigan Welsh Corgi               | 12  | 15  |
+| Cavalier King Charles Spaniel      | 12  | 15  |
+| Chihuahua                          | 14  | 16  |
+| Chinese Shar-Pei                   | 8   | 12  |
+| Chinook                            | 12  | 15  |
+| Chow Chow                          | 8   | 12  |
+| Cocker Spaniel                     | 10  | 14  |
+| Coton de Tulear                    | 15  | 19  |
+| Dachshund                          | 12  | 16  |
+| Dalmatian                          | 11  | 13  |
+| Doberman Pinscher                  | 10  | 12  |
+| Field Spaniel                      | 12  | 13  |
+| French Bulldog                     | 10  | 12  |
+| German Longhaired Pointer          | 12  | 14  |
+| Giant Schnauzer                    | 12  | 15  |
+| Golden Retriever                   | 10  | 12  |
+| Great Dane                         | 7   | 10  |
+| Great Pyrenees                     | 10  | 12  |
+| Greyhound                          | 10  | 13  |
+| Havanese                           | 14  | 16  |
+| Hovawart                           | 10  | 14  |
+| Irish Setter                       | 12  | 15  |
+| Irish Terrier                      | 13  | 15  |
+| Italian Greyhound                  | 14  | 15  |
+| Japanese Chin                      | 10  | 12  |
+| Jindo                              | 14  | 14  |
+| Keeshond                           | 12  | 15  |
+| Komondor                           | 10  | 12  |
+| Labrador Retriever                 | 10  | 12  |
+| Maltese                            | 12  | 15  |
+| Miniature Pinscher                 | 12  | 16  |
+| Mudi                               | 12  | 14  |
+| Newfoundland                       | 9   | 10  |
+| Norfolk Terrier                    | 12  | 16  |
+| Nova Scotia Duck Tolling Retriever | 12  | 14  |
+| Otterhound                         | 10  | 13  |
+| Papillon                           | 14  | 16  |
+| Pekingese                          | 12  | 14  |
+| Pembroke Welsh Corgi               | 12  | 13  |
+| Plott Hound                        | 12  | 14  |
+| Pomeranian                         | 12  | 16  |
+| Poodle (Miniature)                 | 10  | 18  |
+| Pug                                | 13  | 15  |
+| Pumi                               | 12  | 13  |
+| Rhodesian Ridgeback                | 10  | 12  |
+| Rottweiler                         | 9   | 10  |
+| Russian Toy                        | 12  | 14  |
+| Samoyed                            | 12  | 14  |
+| Schipperke                         | 12  | 14  |
+| Shetland Sheepdog                  | 12  | 14  |
+| Shiba Inu                          | 13  | 16  |
+| Shih Tzu                           | 10  | 18  |
+| Siberian Husky                     | 12  | 14  |
+| Smooth Fox Terrier                 | 12  | 15  |
+| Staffordshire Bull Terrier         | 12  | 14  |
+| Tibetan Mastiff                    | 10  | 12  |
+| Treeing Walker Coonhound           | 12  | 13  |
+| Vizsla                             | 12  | 14  |
+| West Highland White Terrier        | 13  | 15  |
+| Whippet                            | 12  | 15  |
+| Xoloitzcuintli                     | 13  | 18  |
+| Yorkshire Terrier                  | 11  | 15  |
+---
+current:
+  subject: Dogs
+  topic: Life expectancy
+  author: Chirag Chauhan
+  source: <https://www.kaggle.com/datasets/warcoder/dog-breeds-details>
+  file: <./lifexp-1.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

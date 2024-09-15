@@ -1,0 +1,118 @@
+| Breed                       | Country of Origin |
+| --------------------------- | ----------------- |
+| Affenpinscher               | Germany           |
+| Africanis                   | Africa            |
+| Akita                       | Japan             |
+| American Bulldog            | United States     |
+| American Eskimo Dog         | United States     |
+| Anatolian Shepherd          | Turkey            |
+| Australian Cattle Dog       | Australia         |
+| Australian Kelpie           | Australia         |
+| Australian Shepherd         | Australia         |
+| AUS. Stumpy Tail Cattle Dog | Australia         |
+| Australian Terrier          | Australia         |
+| Basenji                     | Congo             |
+| Basset Hound                | France            |
+| Beagle                      | England           |
+| Belgian Malinois            | Belgium           |
+| Belgian Tervuren            | Belgium           |
+| Bichon Frise                | France            |
+| Bloodhound                  | England           |
+| Border Collie               | England           |
+| Border Terrier              | England           |
+| Borzoi                      | Russia            |
+| Boston Terrier              | United States     |
+| Boxer                       | Germany           |
+| Brussels Griffon            | Belgium           |
+| Bull Terrier                | England           |
+| Bulldog                     | England           |
+| Cairn Terrier               | Scotland          |
+| Cane Corso                  | Italy             |
+| Cardigan Welsh Corgi        | Wales             |
+| Catahoula Leopard Dog       | United States     |
+| Chesapeake Bay Retriever    | United States     |
+| Chihuahua                   | Mexico            |
+| Chinese Crested             | China             |
+| Cocker Spaniel              | England           |
+| Coton de Tulear             | Madagascar        |
+| Dachshund                   | Germany           |
+| Doberman Pinscher           | Germany           |
+| English Setter              | England           |
+| English Springer Spaniel    | England           |
+| English Toy Spaniel         | England           |
+| Field Spaniel               | England           |
+| Finnish Spitz               | Finland           |
+| Flat-Coated Retriever       | England           |
+| French Bulldog              | France            |
+| German Shepherd             | Germany           |
+| Giant Schnauzer             | Germany           |
+| Golden Retriever            | Scotland          |
+| Gordon Setter               | Scotland          |
+| Great Dane                  | Germany           |
+| Great Pyrenees              | France            |
+| Greyhound                   | England           |
+| Harrier                     | England           |
+| Irish Setter                | Ireland           |
+| Irish Terrier               | Ireland           |
+| Irish Water Spaniel         | Ireland           |
+| Irish Wolfhound             | Ireland           |
+| Italian Greyhound           | Italy             |
+| Jack Russell Terrier        | England           |
+| Japanese Chin               | Japan             |
+| Keeshond                    | Netherlands       |
+| Kerry Blue Terrier          | Ireland           |
+| Kuvasz                      | Hungary           |
+| Labrador Retriever          | Canada            |
+| Lhasa Apso                  | Tibet             |
+| Maltese                     | Malta             |
+| Mastiff                     | England           |
+| Miniature Pinscher          | Germany           |
+| Miniature Poodle            | France            |
+| Miniature Schnauzer         | Germany           |
+| Miniature Shiba Inu         | Japan             |
+| Newfoundland                | Canada            |
+| Old English Sheepdog        | England           |
+| Papillon                    | France            |
+| Pekingese                   | China             |
+| Pharaoh Hound               | Malta             |
+| Pointer                     | England           |
+| Pomeranian                  | Germany           |
+| Poodle                      | France            |
+| Pug                         | China             |
+| Rhodesian Ridgeback         | Rhodesia          |
+| Rottweiler                  | Germany           |
+| Saint Bernard               | Switzerland       |
+| Saluki                      | Middle East       |
+| Samoyed                     | Russia            |
+| Scottish Deerhound          | Scotland          |
+| Shar Pei                    | China             |
+| Shetland Sheepdog           | Scotland          |
+| Shih Tzu                    | China             |
+| Siberian Husky              | Russia            |
+| Staffordshire Bull Terrier  | England           |
+| Standard Poodle             | France            |
+| Standard Schnauzer          | Germany           |
+| Toy Poodle                  | France            |
+| Vizsla                      | Hungary           |
+| Weimaraner                  | Germany           |
+| Welsh Corgi                 | Wales             |
+| Welsh Springer Spaniel      | Wales             |
+| Welsh Terrier               | Wales             |
+| West Highland White Terrier | Scotland          |
+| Whippet                     | England           |
+| Wirehaired Pointing Griffon | Belgium           |
+| Xoloitzcuintli              | Mexico            |
+| Yorkshire Terrier           | England           |
+
+---
+current:
+  subject: Dogs
+  topic: Origins
+  author: Maryna Shut
+  source: <https://www.kaggle.com/datasets/marshuu/dog-breeds>
+  file: 
+    url: <./origin.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

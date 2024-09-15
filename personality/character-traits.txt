@@ -1,0 +1,118 @@
+| Breed                       | Character Traits                                                      |
+| --------------------------- | --------------------------------------------------------------------- |
+| Affenpinscher               | Intel., energetic, playful, good-natured                              |
+| Africanis                   | Intel., energetic, good-natured, loyal                                |
+| Akita                       | Loyal, intel., good-natured, energetic                                |
+| American Bulldog            | Loyal, intel., good-natured, energetic                                |
+| American Eskimo Dog         | Intel., energetic, playful, good-natured                              |
+| Anatolian Shepherd          | Loyal, intel., good-natured, energetic                                |
+| Australian Cattle Dog       | Intel., energetic, playful, good-natured, loyal                       |
+| Australian Kelpie           | Intel., energetic, good-natured, loyal                                |
+| Australian Shepherd         | Intel., energetic, playful, good-natured, loyal, trainable            |
+| AUS. Stumpy Tail Cattle Dog | Intel., energetic, good-natured, loyal                                |
+| Australian Terrier          | Intel., energetic, playful, good-natured                              |
+| Basenji                     | Intel., energetic, playful, good-natured                              |
+| Basset Hound                | Affectionate, patient, gentle, good-natured, loyal, intel.            |
+| Beagle                      | Curious, friendly, energetic, good-natured                            |
+| Belgian Malinois            | Intel., energetic, loyal, protective                                  |
+| Belgian Tervuren            | Intel., energetic, good-natured, loyal                                |
+| Bichon Frise                | Playful, affectionate, intel., social                                 |
+| Bloodhound                  | Loyal, intel., good-natured, energetic                                |
+| Border Collie               | Intel., energetic, playful, good-natured                              |
+| Border Terrier              | Intel., energetic, playful, good-natured                              |
+| Borzoi                      | Gentle, good-natured, loyal, intel.                                   |
+| Boston Terrier              | Intel., energetic, affectionate, good-natured                         |
+| Boxer                       | Loyal, energetic, intel., playful, protective                         |
+| Brussels Griffon            | Intel., energetic, affectionate, good-natured                         |
+| Bull Terrier                | Loyal, intel., good-natured, energetic                                |
+| Bulldog                     | Loyal, calm, gentle, brave                                            |
+| Cairn Terrier               | Intel., energetic, playful, good-natured                              |
+| Cane Corso                  | Loyal, intel., good-natured, energetic                                |
+| Cardigan Welsh Corgi        | Intel., energetic, playful, good-natured                              |
+| Catahoula Leopard Dog       | Intel., energetic, good-natured, loyal                                |
+| Chesapeake Bay Retriever    | Intel., energetic, playful, good-natured                              |
+| Chihuahua                   | Loyal, energetic, confident, sensitive                                |
+| Chinese Crested             | Intel., energetic, affectionate, good-natured                         |
+| Cocker Spaniel              | Affectionate, intel., playful, energetic, good-natured                |
+| Coton de Tulear             | Intel., energetic, playful, good-natured                              |
+| Dachshund                   | Loyal, energetic, playful, curious                                    |
+| Doberman Pinscher           | Loyal, energetic, intel., protective                                  |
+| English Setter              | Intel., energetic, affectionate, playful, good-natured                |
+| English Springer Spaniel    | Intel., energetic, playful, good-natured                              |
+| English Toy Spaniel         | Intel., energetic, playful, good-natured                              |
+| Field Spaniel               | Intel., energetic, playful, good-natured                              |
+| Finnish Spitz               | Intel., energetic, playful, good-natured                              |
+| Flat-Coated Retriever       | Intel., energetic, playful, good-natured                              |
+| French Bulldog              | Affectionate, playful, good-natured                                   |
+| German Shepherd             | Loyal, intel., protective, confident, trainable                       |
+| Giant Schnauzer             | Loyal, intel., good-natured, energetic                                |
+| Golden Retriever            | Intel., energetic, playful, friendly, loyal, good-natured             |
+| Gordon Setter               | Intel., energetic, good-natured, affectionate, playful                |
+| Great Dane                  | Gentle, loyal, intel., good-natured                                   |
+| Great Pyrenees              | Loyal, intel., gentle, protective                                     |
+| Greyhound                   | Intel., athletic, sensitive, energetic, loyal, good-natured           |
+| Harrier                     | Intel., energetic, playful, good-natured                              |
+| Irish Setter                | Intel., energetic, good-natured, affectionate, playful                |
+| Irish Terrier               | Intel., energetic, playful, good-natured                              |
+| Irish Water Spaniel         | Intel., energetic, playful, good-natured                              |
+| Irish Wolfhound             | Loyal, intel., gentle, good-natured, energetic                        |
+| Italian Greyhound           | Intel., energetic, playful, good-natured                              |
+| Jack Russell Terrier        | Intel., energetic, playful, good-natured                              |
+| Japanese Chin               | Intel., energetic, playful, good-natured                              |
+| Keeshond                    | Intel., energetic, playful, good-natured                              |
+| Kerry Blue Terrier          | Intel., energetic, playful, good-natured                              |
+| Kuvasz                      | Loyal, intel., good-natured, energetic                                |
+| Labrador Retriever          | Loyal, friendly, intel., energetic, good-natured                      |
+| Lhasa Apso                  | Intel., energetic, playful, good-natured                              |
+| Maltese                     | Intel., energetic, playful, good-natured                              |
+| Mastiff                     | Loyal, gentle, protective, good-natured                               |
+| Miniature Pinscher          | Intel., energetic, playful, good-natured                              |
+| Miniature Poodle            | Intel., active, affectionate, hypoallergenic                          |
+| Miniature Schnauzer         | Intel., energetic, playful, good-natured                              |
+| Miniature Shiba Inu         | Intel., energetic, playful, good-natured                              |
+| Newfoundland                | Loyal, intel., gentle, good-natured                                   |
+| Old English Sheepdog        | Gentle, intel., good-natured, protective                              |
+| Papillon                    | Intel., energetic, affectionate, good-natured                         |
+| Pekingese                   | Independent, intel., affectionate, good-natured                       |
+| Pharaoh Hound               | Intel., energetic, good-natured, loyal                                |
+| Pointer                     | Intel., energetic, good-natured, affectionate                         |
+| Pomeranian                  | Playful, energetic, intel., good-natured                              |
+| Poodle                      | Intel., active, affectionate, hypoallergenic                          |
+| Pug                         | Intel., energetic, playful, good-natured, loyal, affectionate, social |
+| Rhodesian Ridgeback         | Intel., athletic, loyal, good-natured                                 |
+| Rottweiler                  | Loyal, protective, confident, strong                                  |
+| Saint Bernard               | Loyal, intel., gentle, protective                                     |
+| Saluki                      | Intel., energetic, good-natured, loyal                                |
+| Samoyed                     | Intel., energetic, playful, good-natured                              |
+| Scottish Deerhound          | Gentle, intel., good-natured, independent                             |
+| Shar Pei                    | Independent, loyal, intel., good-natured                              |
+| Shetland Sheepdog           | Intel., energetic, playful, good-natured                              |
+| Shih Tzu                    | Affectionate, playful, confident, good-natured                        |
+| Siberian Husky              | Independent, energetic, intel., playful, strong                       |
+| Staffordshire Bull Terrier  | Intel., energetic, playful, good-natured                              |
+| Standard Poodle             | Intel., active, affectionate, hypoallergenic                          |
+| Standard Schnauzer          | Intel., energetic, playful, good-natured                              |
+| Toy Poodle                  | Intel., active, affectionate, hypoallergenic                          |
+| Vizsla                      | Intel., energetic, playful, good-natured                              |
+| Weimaraner                  | Energetic, intel., good-natured, loyal                                |
+| Welsh Corgi                 | Intel., energetic, playful, good-natured                              |
+| Welsh Springer Spaniel      | Intel., energetic, playful, good-natured                              |
+| Welsh Terrier               | Intel., energetic, playful, good-natured                              |
+| West Highland White Terrier | Intel., energetic, playful, good-natured                              |
+| Whippet                     | Intel., energetic, good-natured, loyal                                |
+| Wirehaired Pointing Griffon | Intel., energetic, playful, good-natured                              |
+| Xoloitzcuintli              | Intel., energetic, playful, good-natured                              |
+| Yorkshire Terrier           | Intel., energetic, playful, good-natured                              |
+
+---
+current:
+  subject: Dogs
+  topic: Character Traits
+  author: Maryna Shut
+  source: <https://www.kaggle.com/datasets/marshuu/dog-breeds>
+  file: 
+    url: <./character-traits.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

@@ -1,0 +1,123 @@
+| Breed                       | Common Health Problems                     |
+| --------------------------- | ------------------------------------------ |
+| Affenpinscher               | Dental, eye, skin                          |
+| Africanis                   | Dental, eye, skin                          |
+| Akita                       | Dental, eye, skin                          |
+| American Bulldog            | Dental, eye, skin                          |
+| American Eskimo Dog         | Dental, skin, hip                          |
+| Anatolian Shepherd          | Dental, eye, skin                          |
+| Australian Cattle Dog       | Dental, eye, skin                          |
+| Australian Cattle Dog       | Dental, skin, hip                          |
+| Australian Kelpie           | Dental, eye, skin                          |
+| Australian Shepherd         | Dental, skin, hip, eye, epilepsy           |
+| AUS. Stumpy Tail Cattle Dog | Dental, eye, skin                          |
+| Australian Terrier          | Dental, eye, skin, hip                     |
+| Basenji                     | Dental, eye, skin                          |
+| Basset Hound                | Dental, eye, ear, obesity, skin            |
+| Beagle                      | Ear, hip, epilepsy                         |
+| Belgian Malinois            | Hip, eye, skin                             |
+| Belgian Tervuren            | Dental, eye, skin                          |
+| Bichon Frise                | Dental, eye, bladder stones                |
+| Bloodhound                  | Dental, eye, skin                          |
+| Border Collie               | Dental, eye, skin                          |
+| Border Terrier              | Dental, skin, hip                          |
+| Borzoi                      | Dental, eye, skin                          |
+| Boston Terrier              | Eye, respiratory, skin                     |
+| Boxer                       | Hip, cancer, heart                         |
+| Brussels Griffon            | Dental, eye, respiratory                   |
+| Bull Terrier                | Dental, eye, skin                          |
+| Bulldog                     | Skin, respiratory, obesity                 |
+| Cairn Terrier               | Dental, eye, skin                          |
+| Cane Corso                  | Dental, eye, skin                          |
+| Cardigan Welsh Corgi        | Dental, eye, skin                          |
+| Catahoula Leopard Dog       | Dental, eye, skin                          |
+| Chesapeake Bay Retriever    | Dental, eye, skin                          |
+| Chihuahua                   | Dental, eye, respiratory                   |
+| Chinese Crested             | Dental, eye, skin                          |
+| Cocker Spaniel              | Dental, eye, Ear, hip, skin                |
+| Coton de Tulear             | Dental, skin, hip                          |
+| Dachshund                   | Intervertebral disc disease, hip, diabetes |
+| Doberman Pinscher           | Hip, heart, cancer                         |
+| English Setter              | Dental, Hip, cancer, eye, skin             |
+| English Springer Spaniel    | Dental, eye, skin                          |
+| English Toy Spaniel         | Dental, skin, hip                          |
+| Field Spaniel               | Dental, eye, skin                          |
+| Finnish Spitz               | Dental, eye, skin                          |
+| Flat-Coated Retriever       | Dental, eye, skin                          |
+| French Bulldog              | Breathing, eye, hip                        |
+| German Shepherd             | Hip, elbow, pancreatitis                   |
+| Giant Schnauzer             | Dental, eye, skin                          |
+| Golden Retriever            | Dental, hip, cancer, eye, skin             |
+| Gordon Setter               | Dental, Hip, eye, skin, cancer             |
+| Great Dane                  | Hip, cancer, heart                         |
+| Great Pyrenees              | Hip, cancer, skin                          |
+| Greyhound                   | Dental, eye, skin, hip, heart              |
+| Harrier                     | Dental, eye, skin                          |
+| Irish Setter                | Dental, eye, skin, hip, cancer             |
+| Irish Terrier               | Dental, eye, skin                          |
+| Irish Water Spaniel         | Dental, eye, skin                          |
+| Irish Wolfhound             | Dental, eye, skin, hip, heart, cancer      |
+| Italian Greyhound           | Dental, eye, skin                          |
+| Jack Russell Terrier        | Dental, eye, skin                          |
+| Japanese Chin               | Dental, eye, skin                          |
+| Keeshond                    | Dental, eye, skin                          |
+| Kerry Blue Terrier          | Dental, eye, skin                          |
+| Kuvasz                      | Dental, eye, skin                          |
+| Labrador Retriever          | Hip, obesity, ear                          |
+| Lhasa Apso                  | Dental, eye, skin                          |
+| Maltese                     | Dental, eye, skin                          |
+| Mastiff                     | Hip, heart, cancer                         |
+| Miniature Pinscher          | Dental, eye, skin                          |
+| Miniature Poodle            | Hip, epilepsy, bladder stones              |
+| Miniature Schnauzer         | Dental, pancreatitis, diabetes             |
+| Miniature Shiba Inu         | Dental, eye, skin                          |
+| Newfoundland                | Hip, heart, cancer                         |
+| Old English Sheepdog        | Hip, eye, skin                             |
+| Papillon                    | Dental, eye, bladder stones                |
+| Pekingese                   | Dental, respiratory, eye                   |
+| Pharaoh Hound               | Dental, eye, skin                          |
+| Pointer                     | Hip, eye, cancer                           |
+| Pomeranian                  | Dental, eye, obesity                       |
+| Poodle                      | Hip, epilepsy, bladder stones              |
+| Pug                         | Dental, respiratory, obesity, eye          |
+| Rhodesian Ridgeback         | Hip, eye, cancer                           |
+| Rottweiler                  | Hip, cancer, elbow                         |
+| Saint Bernard               | Hip, cancer, heart                         |
+| Saluki                      | Dental, eye, skin                          |
+| Samoyed                     | Dental, eye, skin                          |
+| Scottish Deerhound          | Hip, heart, cancer                         |
+| Shar Pei                    | Skin, eye, hip                             |
+| Shetland Sheepdog           | Dental, eye, skin                          |
+| Shih Tzu                    | Dental, respiratory, eye                   |
+| Siberian Husky              | Hip, eye, hereditary myopathy              |
+| Staffordshire Bull Terrier  | Dental, eye, skin                          |
+| Standard Poodle             | Hip, epilepsy, bladder stones              |
+| Standard Schnauzer          | Dental, pancreatitis, diabetes             |
+| Toy Poodle                  | Hip, epilepsy, bladder stones              |
+| Vizsla                      | Dental, eye, skin                          |
+| Weimaraner                  | Hip, eye, cancer                           |
+| Welsh Corgi                 | Dental, eye, skin                          |
+| Welsh Springer Spaniel      | Dental, eye, skin                          |
+| Welsh Terrier               | Dental, eye, skin                          |
+| West Highland White Terrier | Dental, eye, skin, hip                     |
+| Whippet                     | Dental, eye, skin                          |
+| Wirehaired Pointing Griffon | Dental, eye, skin                          |
+| Xoloitzcuintli              | Dental, eye, skin                          |
+| Yorkshire Terrier           | Dental, eye, skin                          |
+
+skin: allergies  
+hip: dysplasia  
+ear: infections  
+
+---
+current:
+  subject: Dogs
+  topic: Common Health Problems
+  author: Maryna Shut
+  source: <https://www.kaggle.com/datasets/marshuu/dog-breeds>
+  file: 
+    url: <./health-problems.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

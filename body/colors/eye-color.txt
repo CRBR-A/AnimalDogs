@@ -1,0 +1,118 @@
+| Breed                       | Color of Eyes |
+| --------------------------- | ------------- |
+| Affenpinscher               | Brown         |
+| Africanis                   | Brown         |
+| Akita                       | Brown         |
+| American Bulldog            | Brown         |
+| American Eskimo Dog         | Brown         |
+| Anatolian Shepherd          | Brown         |
+| Australian Cattle Dog       | Brown         |
+| Australian Kelpie           | Brown         |
+| Australian Shepherd         | Brown, Blue   |
+| AUS. Stumpy Tail Cattle Dog | Brown         |
+| Australian Terrier          | Brown         |
+| Basenji                     | Brown         |
+| Basset Hound                | Brown         |
+| Beagle                      | Brown         |
+| Belgian Malinois            | Brown         |
+| Belgian Tervuren            | Brown         |
+| Bichon Frise                | Brown         |
+| Bloodhound                  | Brown         |
+| Border Collie               | Brown         |
+| Border Terrier              | Brown         |
+| Borzoi                      | Brown         |
+| Boston Terrier              | Brown         |
+| Boxer                       | Brown         |
+| Brussels Griffon            | Brown         |
+| Bull Terrier                | Brown         |
+| Bulldog                     | Brown         |
+| Cairn Terrier               | Brown         |
+| Cane Corso                  | Brown         |
+| Cardigan Welsh Corgi        | Brown         |
+| Catahoula Leopard Dog       | Brown         |
+| Chesapeake Bay Retriever    | Brown         |
+| Chihuahua                   | Brown, Blue   |
+| Chinese Crested             | Brown         |
+| Cocker Spaniel              | Brown         |
+| Coton de Tulear             | Brown         |
+| Dachshund                   | Brown, Blue   |
+| Doberman Pinscher           | Brown         |
+| English Setter              | Brown         |
+| English Springer Spaniel    | Brown         |
+| English Toy Spaniel         | Brown         |
+| Field Spaniel               | Brown         |
+| Finnish Spitz               | Brown         |
+| Flat-Coated Retriever       | Brown         |
+| French Bulldog              | Brown         |
+| German Shepherd             | Brown         |
+| Giant Schnauzer             | Brown         |
+| Golden Retriever            | Brown         |
+| Gordon Setter               | Brown         |
+| Great Dane                  | Brown         |
+| Great Pyrenees              | Brown         |
+| Greyhound                   | Brown         |
+| Harrier                     | Brown         |
+| Irish Setter                | Brown         |
+| Irish Terrier               | Brown         |
+| Irish Water Spaniel         | Brown         |
+| Irish Wolfhound             | Brown         |
+| Italian Greyhound           | Brown         |
+| Jack Russell Terrier        | Brown         |
+| Japanese Chin               | Brown         |
+| Keeshond                    | Brown         |
+| Kerry Blue Terrier          | Brown         |
+| Kuvasz                      | Brown         |
+| Labrador Retriever          | Brown         |
+| Lhasa Apso                  | Brown         |
+| Maltese                     | Brown         |
+| Mastiff                     | Brown         |
+| Miniature Pinscher          | Brown         |
+| Miniature Poodle            | Brown, Blue   |
+| Miniature Schnauzer         | Brown         |
+| Miniature Shiba Inu         | Brown         |
+| Newfoundland                | Brown         |
+| Old English Sheepdog        | Brown         |
+| Papillon                    | Brown         |
+| Pekingese                   | Brown         |
+| Pharaoh Hound               | Brown         |
+| Pointer                     | Brown         |
+| Pomeranian                  | Brown         |
+| Poodle                      | Brown, Blue   |
+| Pug                         | Brown         |
+| Rhodesian Ridgeback         | Brown         |
+| Rottweiler                  | Brown         |
+| Saint Bernard               | Brown         |
+| Saluki                      | Brown         |
+| Samoyed                     | Brown         |
+| Scottish Deerhound          | Brown         |
+| Shar Pei                    | Brown         |
+| Shetland Sheepdog           | Brown         |
+| Shih Tzu                    | Brown         |
+| Siberian Husky              | Blue          |
+| Staffordshire Bull Terrier  | Brown         |
+| Standard Poodle             | Brown, Blue   |
+| Standard Schnauzer          | Brown         |
+| Toy Poodle                  | Brown, Blue   |
+| Vizsla                      | Brown         |
+| Weimaraner                  | Blue, Grey    |
+| Welsh Corgi                 | Brown         |
+| Welsh Springer Spaniel      | Brown         |
+| Welsh Terrier               | Brown         |
+| West Highland White Terrier | Brown         |
+| Whippet                     | Brown         |
+| Wirehaired Pointing Griffon | Brown         |
+| Xoloitzcuintli              | Brown         |
+| Yorkshire Terrier           | Brown         |
+
+---
+current:
+  subject: Dogs
+  topic: Eye Color
+  author: Maryna Shut
+  source: <https://www.kaggle.com/datasets/marshuu/dog-breeds>
+  file: 
+    url: <./eye-color.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

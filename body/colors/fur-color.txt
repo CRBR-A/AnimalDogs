@@ -1,0 +1,118 @@
+| Breed                       | Fur Color                    |
+| --------------------------- | ---------------------------- |
+| Affenpinscher               | Black, Brown, Red            |
+| Africanis                   | Brown, Red                   |
+| Akita                       | Red, Fawn, Sesame            |
+| American Bulldog            | White, Red                   |
+| American Eskimo Dog         | White                        |
+| Anatolian Shepherd          | Fawn                         |
+| Australian Cattle Dog       | Blue, Red                    |
+| Australian Kelpie           | Red, Black                   |
+| Australian Shepherd         | Black, Red, Blue Merle       |
+| AUS. Stumpy Tail Cattle Dog | Red, Black                   |
+| Australian Terrier          | Red, Black & Tan             |
+| Basenji                     | Red, Black & White           |
+| Basset Hound                | Black, White, Red, Tan       |
+| Beagle                      | White, Tan, Red, Lemon       |
+| Belgian Malinois            | Fawn, Mahogany               |
+| Belgian Tervuren            | Fawn                         |
+| Bichon Frise                | White                        |
+| Bloodhound                  | Red, Black                   |
+| Border Collie               | Black, White, Red            |
+| Border Terrier              | Red, Wheaten, Black          |
+| Borzoi                      | White, Cream, Red            |
+| Boston Terrier              | Black, White                 |
+| Boxer                       | Fawn, Brindle                |
+| Brussels Griffon            | Black, Red                   |
+| Bull Terrier                | White, Red                   |
+| Bulldog                     | White, Red                   |
+| Cairn Terrier               | Black, Wheaten, Red          |
+| Cane Corso                  | Black, Red                   |
+| Cardigan Welsh Corgi        | Red, Sable, Black            |
+| Catahoula Leopard Dog       | Merle, Black                 |
+| Chesapeake Bay Retriever    | Brown, Tan                   |
+| Chihuahua                   | Black, Brown, Tan, White     |
+| Chinese Crested             | Pink, White, Black           |
+| Cocker Spaniel              | Black, Brown                 |
+| Coton de Tulear             | White                        |
+| Dachshund                   | Black, Tan                   |
+| Doberman Pinscher           | Black, Red                   |
+| English Setter              | Black, White, Liver, Blue    |
+| English Springer Spaniel    | Black, White, Liver          |
+| English Toy Spaniel         | White, Blenheim              |
+| Field Spaniel               | Black, Liver                 |
+| Finnish Spitz               | Red, Golden                  |
+| Flat-Coated Retriever       | Black, Liver                 |
+| French Bulldog              | White, Black, Brindle        |
+| German Shepherd             | Black, Tan                   |
+| Giant Schnauzer             | Black, Salt & Pepper         |
+| Golden Retriever            | Golden                       |
+| Gordon Setter               | Black, Tan                   |
+| Great Dane                  | Black, Blue, Fawn, Harlequin |
+| Great Pyrenees              | White                        |
+| Greyhound                   | White, Black, Red, Brindle   |
+| Harrier                     | Red, Black & Tan             |
+| Irish Setter                | Red                          |
+| Irish Terrier               | Red                          |
+| Irish Water Spaniel         | Brown                        |
+| Irish Wolfhound             | Grey, Red, Black             |
+| Italian Greyhound           | Red, Black                   |
+| Jack Russell Terrier        | White, Black & Tan           |
+| Japanese Chin               | Black, Red                   |
+| Keeshond                    | Black, Cream                 |
+| Kerry Blue Terrier          | Blue                         |
+| Kuvasz                      | White                        |
+| Labrador Retriever          | Yellow, Black, Chocolate     |
+| Lhasa Apso                  | Black, White                 |
+| Maltese                     | White                        |
+| Mastiff                     | Apricot, Fawn                |
+| Miniature Pinscher          | Red, Stag Red                |
+| Miniature Poodle            | White, Black, Brown, Apricot |
+| Miniature Schnauzer         | Black, Salt & Pepper, White  |
+| Miniature Shiba Inu         | Red, Sesame                  |
+| Newfoundland                | Black, Brown, Grey           |
+| Old English Sheepdog        | Blue, Grey                   |
+| Papillon                    | White, Black, Sable, Red     |
+| Pekingese                   | Black, White, Red            |
+| Pharaoh Hound               | Red                          |
+| Pointer                     | Black, White, Liver          |
+| Pomeranian                  | Orange, Sable, Black         |
+| Poodle                      | White, Black, Brown, Apricot |
+| Pug                         | Black, Fawn                  |
+| Rhodesian Ridgeback         | Light Wheaten                |
+| Rottweiler                  | Black, Tan                   |
+| Saint Bernard               | Red, White                   |
+| Saluki                      | Cream, Red                   |
+| Samoyed                     | White                        |
+| Scottish Deerhound          | Blue, Grey                   |
+| Shar Pei                    | Cream, Fawn                  |
+| Shetland Sheepdog           | Sable, Black                 |
+| Shih Tzu                    | Black, White, Brown          |
+| Siberian Husky              | Black, White                 |
+| Staffordshire Bull Terrier  | White, Black, Red            |
+| Standard Poodle             | White, Black, Brown, Apricot |
+| Standard Schnauzer          | Black, Salt & Pepper         |
+| Toy Poodle                  | White, Black, Brown, Apricot |
+| Vizsla                      | Red                          |
+| Weimaraner                  | Silver, Grey                 |
+| Welsh Corgi                 | Red, Sable                   |
+| Welsh Springer Spaniel      | Liver, White                 |
+| Welsh Terrier               | Black, Tan                   |
+| West Highland White Terrier | White                        |
+| Whippet                     | White, Black, Red            |
+| Wirehaired Pointing Griffon | Brown, White                 |
+| Xoloitzcuintli              | Black, Red                   |
+| Yorkshire Terrier           | Blue & Tan                   |
+
+---
+current:
+  subject: Dogs
+  topic: Fur Color
+  author: Maryna Shut
+  source: <https://www.kaggle.com/datasets/marshuu/dog-breeds>
+  file: 
+    url: <./fur-color.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

@@ -1,0 +1,118 @@
+| Breed                       | Min | Max |
+| --------------------------- | --- | --- |
+| Affenpinscher               | 12  | 15  |
+| Africanis                   | 12  | 15  |
+| Akita                       | 10  | 12  |
+| American Bulldog            | 10  | 12  |
+| American Eskimo Dog         | 12  | 15  |
+| Anatolian Shepherd          | 12  | 14  |
+| Australian Cattle Dog       | 12  | 16  |
+| Australian Kelpie           | 12  | 14  |
+| Australian Shepherd         | 12  | 15  |
+| AUS. Stumpy Tail Cattle Dog | 12  | 14  |
+| Australian Terrier          | 12  | 15  |
+| Basenji                     | 12  | 15  |
+| Basset Hound                | 10  | 12  |
+| Beagle                      | 12  | 15  |
+| Belgian Malinois            | 12  | 14  |
+| Belgian Tervuren            | 12  | 14  |
+| Bichon Frise                | 12  | 15  |
+| Bloodhound                  | 10  | 12  |
+| Border Collie               | 12  | 15  |
+| Border Terrier              | 12  | 16  |
+| Borzoi                      | 10  | 12  |
+| Boston Terrier              | 11  | 13  |
+| Boxer                       | 10  | 12  |
+| Brussels Griffon            | 12  | 15  |
+| Bull Terrier                | 10  | 12  |
+| Bulldog                     | 8   | 10  |
+| Cairn Terrier               | 12  | 15  |
+| Cane Corso                  | 10  | 12  |
+| Cardigan Welsh Corgi        | 12  | 14  |
+| Catahoula Leopard Dog       | 12  | 14  |
+| Chesapeake Bay Retriever    | 12  | 14  |
+| Chihuahua                   | 12  | 20  |
+| Chinese Crested             | 13  | 18  |
+| Cocker Spaniel              | 12  | 15  |
+| Coton de Tulear             | 12  | 14  |
+| Dachshund                   | 12  | 15  |
+| Doberman Pinscher           | 10  | 12  |
+| English Setter              | 12  | 15  |
+| English Springer Spaniel    | 12  | 14  |
+| English Toy Spaniel         | 12  | 14  |
+| Field Spaniel               | 12  | 14  |
+| Finnish Spitz               | 12  | 15  |
+| Flat-Coated Retriever       | 12  | 14  |
+| French Bulldog              | 10  | 12  |
+| German Shepherd             | 7   | 10  |
+| Giant Schnauzer             | 10  | 12  |
+| Golden Retriever            | 10  | 14  |
+| Gordon Setter               | 12  | 15  |
+| Great Dane                  | 8   | 10  |
+| Great Pyrenees              | 10  | 12  |
+| Greyhound                   | 10  | 12  |
+| Harrier                     | 12  | 14  |
+| Irish Setter                | 12  | 15  |
+| Irish Terrier               | 12  | 14  |
+| Irish Water Spaniel         | 12  | 14  |
+| Irish Wolfhound             | 6   | 10  |
+| Italian Greyhound           | 12  | 15  |
+| Jack Russell Terrier        | 12  | 15  |
+| Japanese Chin               | 12  | 15  |
+| Keeshond                    | 12  | 15  |
+| Kerry Blue Terrier          | 12  | 14  |
+| Kuvasz                      | 10  | 12  |
+| Labrador Retriever          | 10  | 12  |
+| Lhasa Apso                  | 12  | 15  |
+| Maltese                     | 12  | 15  |
+| Mastiff                     | 8   | 10  |
+| Miniature Pinscher          | 12  | 14  |
+| Miniature Poodle            | 12  | 15  |
+| Miniature Schnauzer         | 12  | 15  |
+| Miniature Shiba Inu         | 12  | 15  |
+| Newfoundland                | 9   | 11  |
+| Old English Sheepdog        | 10  | 12  |
+| Papillon                    | 14  | 16  |
+| Pekingese                   | 12  | 15  |
+| Pharaoh Hound               | 12  | 14  |
+| Pointer                     | 12  | 15  |
+| Pomeranian                  | 12  | 16  |
+| Poodle                      | 12  | 15  |
+| Pug                         | 12  | 15  |
+| Rhodesian Ridgeback         | 10  | 12  |
+| Rottweiler                  | 8   | 10  |
+| Saint Bernard               | 8   | 10  |
+| Saluki                      | 12  | 14  |
+| Samoyed                     | 12  | 14  |
+| Scottish Deerhound          | 8   | 10  |
+| Shar Pei                    | 8   | 12  |
+| Shetland Sheepdog           | 12  | 14  |
+| Shih Tzu                    | 10  | 16  |
+| Siberian Husky              | 12  | 15  |
+| Staffordshire Bull Terrier  | 12  | 14  |
+| Standard Poodle             | 12  | 15  |
+| Standard Schnauzer          | 12  | 15  |
+| Toy Poodle                  | 12  | 15  |
+| Vizsla                      | 12  | 14  |
+| Weimaraner                  | 10  | 12  |
+| Welsh Corgi                 | 12  | 15  |
+| Welsh Springer Spaniel      | 12  | 14  |
+| Welsh Terrier               | 12  | 15  |
+| West Highland White Terrier | 12  | 16  |
+| Whippet                     | 12  | 15  |
+| Wirehaired Pointing Griffon | 12  | 14  |
+| Xoloitzcuintli              | 12  | 15  |
+| Yorkshire Terrier           | 12  | 15  |
+
+---
+current:
+  subject: Dogs
+  topic: Longevity
+  author: Maryna Shut
+  source: <https://www.kaggle.com/datasets/marshuu/dog-breeds>
+  file: 
+    url: <./lifexp-2.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

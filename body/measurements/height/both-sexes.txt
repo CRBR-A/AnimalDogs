@@ -1,0 +1,118 @@
+| Breed                       | Min | Max |
+| --------------------------- | --- | --- |
+| Affenpinscher               | 10  | 13  |
+| Africanis                   | 25  | 29  |
+| Akita                       | 28  | 32  |
+| American Bulldog            | 23  | 32  |
+| American Eskimo Dog         | 17  | 22  |
+| Anatolian Shepherd          | 31  | 34  |
+| Australian Cattle Dog       | 20  | 23  |
+| Australian Kelpie           | 20  | 23  |
+| Australian Shepherd         | 21  | 26  |
+| AUS. Stumpy Tail Cattle Dog | 20  | 23  |
+| Australian Terrier          | 11  | 13  |
+| Basenji                     | 19  | 20  |
+| Basset Hound                | 13  | 17  |
+| Beagle                      | 15  | 17  |
+| Belgian Malinois            | 25  | 30  |
+| Belgian Tervuren            | 25  | 30  |
+| Bichon Frise                | 10  | 13  |
+| Bloodhound                  | 25  | 31  |
+| Border Collie               | 21  | 25  |
+| Border Terrier              | 11  | 19  |
+| Borzoi                      | 30  | 34  |
+| Boston Terrier              | 17  | 20  |
+| Boxer                       | 24  | 29  |
+| Brussels Griffon            | 8   | 11  |
+| Bull Terrier                | 23  | 25  |
+| Bulldog                     | 14  | 19  |
+| Cairn Terrier               | 11  | 14  |
+| Cane Corso                  | 25  | 32  |
+| Cardigan Welsh Corgi        | 11  | 14  |
+| Catahoula Leopard Dog       | 23  | 30  |
+| Chesapeake Bay Retriever    | 24  | 30  |
+| Chihuahua                   | 7   | 10  |
+| Chinese Crested             | 13  | 15  |
+| Cocker Spaniel              | 16  | 17  |
+| Coton de Tulear             | 10  | 13  |
+| Dachshund                   | 6   | 10  |
+| Doberman Pinscher           | 28  | 32  |
+| English Setter              | 26  | 31  |
+| English Springer Spaniel    | 23  | 28  |
+| English Toy Spaniel         | 11  | 14  |
+| Field Spaniel               | 17  | 21  |
+| Finnish Spitz               | 17  | 23  |
+| Flat-Coated Retriever       | 25  | 29  |
+| French Bulldog              | 13  | 14  |
+| German Shepherd             | 25  | 30  |
+| Giant Schnauzer             | 29  | 32  |
+| Golden Retriever            | 24  | 28  |
+| Gordon Setter               | 26  | 31  |
+| Great Dane                  | 32  | 39  |
+| Great Pyrenees              | 29  | 37  |
+| Greyhound                   | 30  | 34  |
+| Harrier                     | 21  | 24  |
+| Irish Setter                | 28  | 32  |
+| Irish Terrier               | 16  | 19  |
+| Irish Water Spaniel         | 24  | 28  |
+| Irish Wolfhound             | 34  | 40  |
+| Italian Greyhound           | 15  | 17  |
+| Jack Russell Terrier        | 11  | 14  |
+| Japanese Chin               | 8   | 13  |
+| Keeshond                    | 20  | 22  |
+| Kerry Blue Terrier          | 20  | 22  |
+| Kuvasz                      | 29  | 34  |
+| Labrador Retriever          | 24  | 28  |
+| Lhasa Apso                  | 11  | 13  |
+| Maltese                     | 9   | 11  |
+| Mastiff                     | 34  | 39  |
+| Miniature Pinscher          | 11  | 14  |
+| Miniature Poodle            | 11  | 17  |
+| Miniature Schnauzer         | 14  | 16  |
+| Miniature Shiba Inu         | 15  | 19  |
+| Newfoundland                | 30  | 32  |
+| Old English Sheepdog        | 25  | 30  |
+| Papillon                    | 9   | 13  |
+| Pekingese                   | 7   | 10  |
+| Pharaoh Hound               | 24  | 29  |
+| Pointer                     | 24  | 31  |
+| Pomeranian                  | 7   | 8   |
+| Poodle                      | 11  | 17  |
+| Pug                         | 11  | 16  |
+| Rhodesian Ridgeback         | 29  | 31  |
+| Rottweiler                  | 25  | 31  |
+| Saint Bernard               | 30  | 34  |
+| Saluki                      | 26  | 32  |
+| Samoyed                     | 24  | 26  |
+| Scottish Deerhound          | 32  | 37  |
+| Shar Pei                    | 21  | 23  |
+| Shetland Sheepdog           | 15  | 19  |
+| Shih Tzu                    | 10  | 11  |
+| Siberian Husky              | 24  | 28  |
+| Staffordshire Bull Terrier  | 16  | 19  |
+| Standard Poodle             | 17  | 25  |
+| Standard Schnauzer          | 21  | 23  |
+| Toy Poodle                  | 11  | 13  |
+| Vizsla                      | 23  | 28  |
+| Weimaraner                  | 29  | 34  |
+| Welsh Corgi                 | 11  | 14  |
+| Welsh Springer Spaniel      | 23  | 29  |
+| Welsh Terrier               | 11  | 14  |
+| West Highland White Terrier | 11  | 14  |
+| Whippet                     | 21  | 25  |
+| Wirehaired Pointing Griffon | 24  | 28  |
+| Xoloitzcuintli              | 11  | 16  |
+| Yorkshire Terrier           | 8   | 9   |
+
+---
+current:
+  subject: Dogs
+  topic: Height
+  author: Maryna Shut
+  source: <https://www.kaggle.com/datasets/marshuu/dog-breeds>
+  file: 
+    url: <./height.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

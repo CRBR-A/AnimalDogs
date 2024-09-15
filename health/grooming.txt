@@ -1,0 +1,111 @@
+| Name                               | Value |
+| ---------------------------------- | ----- |
+| Afghan Hound                       | 4/5   |
+| Akita                              | 3/5   |
+| Alaskan Klee Kai                   | 2/5   |
+| Alaskan Malamute                   | 3/5   |
+| American Bulldog                   | 0/5   |
+| American Eskimo Dog                | 3/5   |
+| American Hairless Terrier          | 1/5   |
+| American Leopard Hound             | 1/5   |
+| American Staffordshire Terrier     | 1/5   |
+| American Water Spaniel             | 3/5   |
+| Anatolian Shepherd Dog             | 2/5   |
+| Australian Cattle Dog              | 1/5   |
+| Australian Shepherd                | 2/5   |
+| Barbet                             | 3/5   |
+| Basenji                            | 1/5   |
+| Basset Hound                       | 3/5   |
+| Beagle                             | 2/5   |
+| Beauceron                          | 3/5   |
+| Belgian Malinois                   | 2/5   |
+| Bergamasco Sheepdog                | 1/5   |
+| Berger Picard                      | 1/5   |
+| Bernese Mountain Dog               | 3/5   |
+| Bichon Frise                       | 5/5   |
+| Bloodhound                         | 2/5   |
+| Boerboel                           | 2/5   |
+| Bolognese                          | 3/5   |
+| Border Collie                      | 3/5   |
+| Borzoi                             | 2/5   |
+| Boston Terrier                     | 2/5   |
+| Boxer                              | 2/5   |
+| Bracco Italiano                    | 1/5   |
+| Brittany                           | 3/5   |
+| Bull Terrier                       | 2/5   |
+| Bullmastiff                        | 1/5   |
+| Cane Corso                         | 1/5   |
+| Cardigan Welsh Corgi               | 2/5   |
+| Cavalier King Charles Spaniel      | 2/5   |
+| Chihuahua                          | 1/5   |
+| Chinese Shar-Pei                   | 1/5   |
+| Chinook                            | 3/5   |
+| Chow Chow                          | 3/5   |
+| Cocker Spaniel                     | 4/5   |
+| Coton de Tulear                    | 4/5   |
+| Dachshund                          | 2/5   |
+| Dalmatian                          | 2/5   |
+| Doberman Pinscher                  | 1/5   |
+| Field Spaniel                      | 2/5   |
+| French Bulldog                     | 1/5   |
+| German Longhaired Pointer          | 1/5   |
+| Giant Schnauzer                    | 4/5   |
+| Golden Retriever                   | 2/5   |
+| Great Dane                         | 1/5   |
+| Great Pyrenees                     | 2/5   |
+| Greyhound                          | 1/5   |
+| Havanese                           | 3/5   |
+| Hovawart                           | 2/5   |
+| Irish Setter                       | 3/5   |
+| Irish Terrier                      | 1/5   |
+| Italian Greyhound                  | 1/5   |
+| Japanese Chin                      | 2/5   |
+| Jindo                              | 2/5   |
+| Keeshond                           | 3/5   |
+| Komondor                           | 4/5   |
+| Labrador Retriever                 | 2/5   |
+| Maltese                            | 4/5   |
+| Miniature Pinscher                 | 1/5   |
+| Mudi                               | 1/5   |
+| Newfoundland                       | 2/5   |
+| Norfolk Terrier                    | 2/5   |
+| Nova Scotia Duck Tolling Retriever | 2/5   |
+| Otterhound                         | 2/5   |
+| Papillon                           | 2/5   |
+| Pekingese                          | 3/5   |
+| Pembroke Welsh Corgi               | 2/5   |
+| Plott Hound                        | 0/5   |
+| Pomeranian                         | 3/5   |
+| Poodle (Miniature)                 | 4/5   |
+| Pug                                | 2/5   |
+| Pumi                               | 2/5   |
+| Rhodesian Ridgeback                | 2/5   |
+| Rottweiler                         | 1/5   |
+| Russian Toy                        | 2/5   |
+| Samoyed                            | 3/5   |
+| Schipperke                         | 2/5   |
+| Shetland Sheepdog                  | 3/5   |
+| Shiba Inu                          | 2/5   |
+| Shih Tzu                           | 4/5   |
+| Siberian Husky                     | 2/5   |
+| Smooth Fox Terrier                 | 2/5   |
+| Staffordshire Bull Terrier         | 2/5   |
+| Tibetan Mastiff                    | 3/5   |
+| Treeing Walker Coonhound           | 1/5   |
+| Vizsla                             | 2/5   |
+| West Highland White Terrier        | 3/5   |
+| Whippet                            | 1/5   |
+| Xoloitzcuintli                     | 1/5   |
+| Yorkshire Terrier                  | 5/5   |
+
+---
+current:
+  subject: Dogs
+  topic: Grooming
+  author: Chirag Chauhan
+  source: <https://www.kaggle.com/datasets/warcoder/dog-breeds-details>
+  file: <./grooming.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

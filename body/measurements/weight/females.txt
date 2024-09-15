@@ -1,0 +1,112 @@
+| Name                               | Min | Max |
+| ---------------------------------- | --- | --- |
+| Afghan Hound                       | 23  | 27  |
+| Akita                              | 32  | 45  |
+| Alaskan Klee Kai                   | 32  | 45  |
+| Alaskan Malamute                   | 34  | 34  |
+| American Bulldog                   | 27  | 36  |
+| American Eskimo Dog                | 20  | 29  |
+| American Hairless Terrier          | 5   | 7   |
+| American Leopard Hound             | 20  | 32  |
+| American Staffordshire Terrier     | 18  | 25  |
+| American Water Spaniel             | 11  | 18  |
+| Anatolian Shepherd Dog             | 36  | 54  |
+| Australian Cattle Dog              | 16  | 23  |
+| Australian Shepherd                | 18  | 25  |
+| Barbet                             | 16  | 29  |
+| Basenji                            | 10  | 10  |
+| Basset Hound                       | 18  | 29  |
+| Beagle                             | 9   | 14  |
+| Beauceron                          | 32  | 50  |
+| Belgian Malinois                   | 18  | 27  |
+| Bergamasco Sheepdog                | 26  | 32  |
+| Berger Picard                      | 23  | 32  |
+| Bernese Mountain Dog               | 32  | 43  |
+| Bichon Frise                       | 5   | 8   |
+| Bloodhound                         | 36  | 45  |
+| Boerboel                           | 68  | 91  |
+| Bolognese                          | 2   | 4   |
+| Border Collie                      | 14  | 25  |
+| Borzoi                             | 27  | 39  |
+| Boston Terrier                     | 5   | 11  |
+| Boxer                              | 23  | 29  |
+| Bracco Italiano                    | 25  | 41  |
+| Brittany                           | 14  | 18  |
+| Bull Terrier                       | 23  | 32  |
+| Bullmastiff                        | 45  | 54  |
+| Cane Corso                         | 40  | 45  |
+| Cardigan Welsh Corgi               | 11  | 15  |
+| Cavalier King Charles Spaniel      | 6   | 8   |
+| Chihuahua                          | 2   | 3   |
+| Chinese Shar-Pei                   | 20  | 27  |
+| Chinook                            | 23  | 29  |
+| Chow Chow                          | 20  | 32  |
+| Cocker Spaniel                     | 9   | 11  |
+| Coton de Tulear                    | 4   | 6   |
+| Dachshund                          | 7   | 15  |
+| Dalmatian                          | 20  | 32  |
+| Doberman Pinscher                  | 27  | 41  |
+| Field Spaniel                      | 16  | 23  |
+| French Bulldog                     | 8   | 12  |
+| German Longhaired Pointer          | 25  | 36  |
+| Giant Schnauzer                    | 25  | 34  |
+| Golden Retriever                   | 25  | 29  |
+| Great Dane                         | 50  | 64  |
+| Great Pyrenees                     | 36  | 41  |
+| Greyhound                          | 27  | 29  |
+| Havanese                           | 3   | 6   |
+| Hovawart                           | 29  | 41  |
+| Irish Setter                       | 27  | 27  |
+| Irish Terrier                      | 11  | 11  |
+| Italian Greyhound                  | 3   | 6   |
+| Japanese Chin                      | 3   | 5   |
+| Jindo                              | 14  | 23  |
+| Keeshond                           | 16  | 20  |
+| Komondor                           | 40  | 50  |
+| Labrador Retriever                 | 25  | 32  |
+| Maltese                            | 3   | 4   |
+| Miniature Pinscher                 | 4   | 5   |
+| Mudi                               | 8   | 13  |
+| Newfoundland                       | 45  | 54  |
+| Norfolk Terrier                    | 5   | 5   |
+| Nova Scotia Duck Tolling Retriever | 16  | 23  |
+| Otterhound                         | 36  | 36  |
+| Papillon                           | 2   | 5   |
+| Pekingese                          | 3   | 6   |
+| Pembroke Welsh Corgi               | 11  | 13  |
+| Plott Hound                        | 18  | 25  |
+| Pomeranian                         | 1   | 3   |
+| Poodle (Miniature)                 | 5   | 7   |
+| Pug                                | 6   | 8   |
+| Pumi                               | 10  | 11  |
+| Rhodesian Ridgeback                | 32  | 32  |
+| Rottweiler                         | 36  | 45  |
+| Russian Toy                        | 1   | 3   |
+| Samoyed                            | 16  | 23  |
+| Schipperke                         | 5   | 7   |
+| Shetland Sheepdog                  | 7   | 11  |
+| Shiba Inu                          | 8   | 8   |
+| Shih Tzu                           | 4   | 7   |
+| Siberian Husky                     | 16  | 23  |
+| Smooth Fox Terrier                 | 7   | 8   |
+| Staffordshire Bull Terrier         | 11  | 15  |
+| Tibetan Mastiff                    | 32  | 54  |
+| Treeing Walker Coonhound           | 23  | 32  |
+| Vizsla                             | 20  | 25  |
+| West Highland White Terrier        | 7   | 9   |
+| Whippet                            | 11  | 18  |
+| Xoloitzcuintli                     | 13  | 27  |
+| Yorkshire Terrier                  | 3   | 3   |
+
+---
+current:
+  subject: Dogs
+  topic: Weight
+  sex: Females
+  author: Chirag Chauhan
+  source: <https://www.kaggle.com/datasets/warcoder/dog-breeds-details>
+  file: <./females.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...
