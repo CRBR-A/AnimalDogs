@@ -1,0 +1,19 @@
+---
+current:
+  subject: Thermal infrared images of dogs
+  topic: sitting
+  file:
+    url: <./IMG_0086.jpg>
+    source: 
+      main: 
+        author: Joseph Nelson
+        title: Roboflow Thermal Dogs and People dataset
+        url: https://public.roboflow.com/object-detection/thermal-dogs-and-people
+        license: CC0 Public domain
+      alternative: 
+        author: Al Sani
+        url: https://www.kaggle.com/datasets/alsaniipe/thermal-dogs-and-people
+        license: CC0 Public domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...
