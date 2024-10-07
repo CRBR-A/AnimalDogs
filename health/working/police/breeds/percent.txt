@@ -1,0 +1,27 @@
+| Breed              | Percent |
+| ------------------ | ------- |
+| German shepherd    | 67.9    |
+| Belgian Malinois   | 25.7    |
+| Not specified      | 3.4     |
+| Labrador retriever | 2       |
+| Dutch Shepherd     | 0.6     |
+| Cocker spaniel     | 0.2     |
+| Hound dog          | 0.1     |
+| Mix                | 0.1     |
+
+---
+current:
+  subject: Police dogs
+  topic: Breed (percent)
+  author: Naqa Saleh Mahdi Tamimi, Abdulraheem Abduljalil Wali
+  source: 
+    title: Health problems of Iraqi police dogs referred to Baghdad Veterinary Hospital during 2015-2017
+    url: <https://www.veterinaryworld.org/Vol.12/July-2019/18.pdf>
+    license: 
+      data: CC0 Public Domain
+      article: CC-BY
+  file: <./percent.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

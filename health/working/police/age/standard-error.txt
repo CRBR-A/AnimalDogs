@@ -1,0 +1,20 @@
+| Age        | Value |
+| ---------- | ----- |
+| SD of Mean | 2.95  |
+
+---
+current:
+  subject: Police dogs
+  topic: Age
+  author: Naqa Saleh Mahdi Tamimi, Abdulraheem Abduljalil Wali
+  source: 
+    title: Health problems of Iraqi police dogs referred to Baghdad Veterinary Hospital during 2015-2017
+    url: <https://www.veterinaryworld.org/Vol.12/July-2019/18.pdf>
+    license: 
+      data: CC0 Public Domain
+      article: CC-BY
+  file: <./standard-error.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

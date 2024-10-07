@@ -1,0 +1,107 @@
+| Diagnosed health problems                | Number |
+| ---------------------------------------- | ------ |
+| All dogs                                 | 1220   |
+| Cardiovascular system                    | 235    |
+| - congestive heart failure               | 193    |
+| - pulmonary edema                        | 85     |
+| - arrhythmia                             | 37     |
+| - pericarditis                           | 3      |
+| - ventricular tachycardia                | 2      |
+| Digestive system                         | 189    |
+| - intestinal parasites                   | 93     |
+| - enteritis                              | 28     |
+| - periodontal problems                   | 27     |
+| - gastroenteritis                        | 12     |
+| - megacolon                              | 9      |
+| - gastritis                              | 8      |
+| - gastric ulcer                          | 4      |
+| - cholecystitis                          | 2      |
+| - cirrhosis                              | 2      |
+| - intestinal obstruction                 | 2      |
+| - IBS                                    | 1      |
+| - mucocele                               | 1      |
+| Infectious diseases                      | 179    |
+| - babesiosis                             | 108    |
+| - brucellosis                            | 33     |
+| - canine distemper                       | 15     |
+| - canine parvovirus                      | 6      |
+| - neosporosis                            | 6      |
+| - coccidiosis                            | 4      |
+| - anaplasmosis                           | 3      |
+| - giardiasis                             | 3      |
+| - meningitis                             | 1      |
+| Poor management and aging                | 113    |
+| - aging                                  | 45     |
+| - overworking and nutritional deficiency | 36     |
+| - anemia                                 | 32     |
+| Musculoskeletal system and trauma        | 113    |
+| - arthritis                              | 22     |
+| - hip dysplasia                          | 21     |
+| - wound                                  | 18     |
+| - hematoma                               | 15     |
+| - mild trauma                            | 13     |
+| - osteoarthritis                         | 9      |
+| - cranial cruciate ligament rupture      | 4      |
+| - dislocation                            | 4      |
+| - fractures                              | 4      |
+| - bullet                                 | 1      |
+| - hernia                                 | 1      |
+| - osteoporosis                           | 1      |
+| Skin, eye and ear                        | 100    |
+| - otitis                                 | 36     |
+| - dermatophytosis                        | 27     |
+| - blindness                              | 8      |
+| - anal gland infection                   | 7      |
+| - abscess                                | 5      |
+| - KCS                                    | 5      |
+| - dermatitis                             | 3      |
+| - surgery site infection                 | 3      |
+| - decreased vision                       | 2      |
+| - cataract                               | 1      |
+| - deafness                               | 1      |
+| - decreased hearing                      | 1      |
+| - Thelazia callipaeda                    | 1      |
+| Respiratory system                       | 77     |
+| - bronchopneumonia                       | 37     |
+| - bronchitis                             | 26     |
+| - pulmonary emphysema                    | 6      |
+| - Upper respiratory infection            | 6      |
+| - pleural effusion                       | 2      |
+| Other                                    | 46     |
+| - malignancies                           | 45     |
+| - epilepsy                               | 1      |
+| - hypothyroidism                         | 1      |
+| Reproductive system                      | 39     |
+| - Urinary system                         | 37     |
+| - Urinary tract infection                | 26     |
+| - pyometra                               | 9      |
+| - orchitis                               | 8      |
+| - urolithiasis                           | 8      |
+| - ovariohysterectomy                     | 5      |
+| - endometritis                           | 4      |
+| - vaginitis                              | 4      |
+| - castration                             | 3      |
+| - ovarian cyst                           | 3      |
+| - renal failure                          | 3      |
+| - unilateral cryptorchidism              | 2      |
+| - benign prostatic hyperplasia           | 1      |
+| Behavioral problems                      | 9      |
+| - tail biting-OCD                        | 8      |
+| - aggression                             | 1      |
+
+---
+current:
+  subject: Police dogs
+  topic: Diagnosed health problems (numbers)
+  author: Naqa Saleh Mahdi Tamimi, Abdulraheem Abduljalil Wali
+  source: 
+    title: Health problems of Iraqi police dogs referred to Baghdad Veterinary Hospital during 2015-2017
+    url: <https://www.veterinaryworld.org/Vol.12/July-2019/18.pdf>
+    license: 
+      data: CC0 Public Domain
+      article: CC-BY
+  file: <./number.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

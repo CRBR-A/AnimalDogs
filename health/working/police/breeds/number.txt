@@ -1,0 +1,28 @@
+| Breed              | Number |
+| ------------------ | ------ |
+| All breed          | 1220   |
+| German shepherd    | 828    |
+| Belgian Malinois   | 314    |
+| Labrador retriever | 25     |
+| Dutch Shepherd     | 7      |
+| Cocker spaniel     | 3      |
+| Not specified      | 41     |
+| Hound dog          | 1      |
+| Mix                | 1      |
+
+---
+current:
+  subject: Police dogs
+  topic: Breed (number)
+  author: Naqa Saleh Mahdi Tamimi, Abdulraheem Abduljalil Wali
+  source: 
+    title: Health problems of Iraqi police dogs referred to Baghdad Veterinary Hospital during 2015-2017
+    url: <https://www.veterinaryworld.org/Vol.12/July-2019/18.pdf>
+    license: 
+      data: CC0 Public Domain
+      article: CC-BY
+  file: <./number.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

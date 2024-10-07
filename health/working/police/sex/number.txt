@@ -1,0 +1,21 @@
+| Sex    | Number |
+| ------ | ------ |
+| Male   | 778    |
+| Female | 440    |
+
+---
+current:
+  subject: Police dogs
+  topic: sex ratio (numbers)
+  author: Naqa Saleh Mahdi Tamimi, Abdulraheem Abduljalil Wali
+  source: 
+    title: Health problems of Iraqi police dogs referred to Baghdad Veterinary Hospital during 2015-2017
+    url: <https://www.veterinaryworld.org/Vol.12/July-2019/18.pdf>
+    license: 
+      data: CC0 Public Domain
+      article: CC-BY
+  file: <./number.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...
