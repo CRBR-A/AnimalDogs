@@ -1,0 +1,25 @@
+| Sex         | Median |
+| ----------- | ------ |
+| both        | 4.4    |
+| - entire    | 2.79   |
+| - neutered  | 6.12   |
+| female      | 4.46   |
+| male        | 4.34   |
+
+---
+current:
+  subject: Dogs
+  topic: age-median
+  source: 
+    author: O'Neill, D.G., James, H., Brodbelt, D.C. et al.
+    title: Prevalence of commonly diagnosed disorders in UK dogs under primary veterinary care - results and applications. 
+    url: https://doi.org/10.1186/s12917-021-02775-3
+    license:
+      data: CC0 Public Domain
+      article: CC-BY
+  file: 
+    url: <./age-median.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

@@ -1,0 +1,56 @@
+| Grouped-level disorder term                | Ratio |
+| ------------------------------------------ | ----- |
+| Incontinence                               | 1.68  |
+| Obesity                                    | 1.44  |
+| Polyuria/polydipsia                        | 1.34  |
+| Urinary system disorder                    | 1.32  |
+| Endocrine system disorder                  | 1.25  |
+| Dental disorder                            | 1.22  |
+| Foreign body                               | 1.2   |
+| Behaviour disorder                         | 1.19  |
+| Musculoskeletal disorder                   | 1.19  |
+| Disorder not diagnosed                     | 1.18  |
+| Adverse reaction to drug                   | 1.15  |
+| Brain disorder                             | 1.15  |
+| Neoplasia                                  | 1.11  |
+| Ophthalmological disorder                  | 1.11  |
+| Lower respiratory tract disorder           | 1.09  |
+| Anal sac disorder                          | 1.07  |
+| Spinal cord disorder                       | 1.06  |
+| Enteropathy                                | 1.05  |
+| Ear disorder                               | 1.03  |
+| Mass                                       | 1.02  |
+| Traumatic injury                           | 1.01  |
+| Appetite disorder                          | 1     |
+| Skin disorder                              | 1     |
+| Intoxication                               | 0.99  |
+| Claw/nail disorder                         | 0.94  |
+| Heart disease                              | 0.91  |
+| Upper respiratory tract disorder           | 0.9   |
+| Collapsed                                  | 0.89  |
+| Complication associated with clinical care | 0.89  |
+| Liver disorder                             | 0.89  |
+| Hernia                                     | 0.85  |
+| Lethargy                                   | 0.8   |
+| Parasite infestation                       | 0.77  |
+| Underweight                                | 0.63  |
+| Female reproductive disorder               | 0.37  |
+| Male reproductive system disorder          | 0.31  |
+
+---
+current:
+  subject: Dogs
+  topic: ratio-neuretred-entire
+  source: 
+    author: O'Neill, D.G., James, H., Brodbelt, D.C. et al.
+    title: Prevalence of commonly diagnosed disorders in UK dogs under primary veterinary care - results and applications. 
+    url: https://doi.org/10.1186/s12917-021-02775-3
+    license:
+      data: CC0 Public Domain
+      article: CC-BY
+  file: 
+    url: <./ratio-neuretred-entire.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

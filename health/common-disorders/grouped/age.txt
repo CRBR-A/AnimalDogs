@@ -1,0 +1,56 @@
+| Grouped-level disorder term                | Median |
+| ------------------------------------------ | ------ |
+| Hernia                                     | 1.09   |
+| Male reproductive system disorder          | 1.72   |
+| Intoxication                               | 2.36   |
+| Foreign body                               | 2.81   |
+| Adverse reaction to drug                   | 3.06   |
+| Complication associated with clinical care | 3.09   |
+| Parasite infestation                       | 3.14   |
+| Enteropathy                                | 3.42   |
+| Traumatic injury                           | 3.68   |
+| Female reproductive disorder               | 3.77   |
+| Upper respiratory tract disorder           | 4.37   |
+| Behaviour disorder                         | 4.65   |
+| Claw/nail disorder                         | 4.74   |
+| Ear disorder                               | 4.82   |
+| Skin disorder                              | 5      |
+| Anal sac disorder                          | 5.39   |
+| Lethargy                                   | 5.65   |
+| Obesity                                    | 5.99   |
+| Ophthalmological disorder                  | 6.45   |
+| Underweight                                | 6.51   |
+| Dental disorder                            | 7.12   |
+| Appetite disorder                          | 7.43   |
+| Musculoskeletal disorder                   | 7.53   |
+| Urinary system disorder                    | 7.87   |
+| Brain disorder                             | 9.14   |
+| Mass                                       | 9.19   |
+| Neoplasia                                  | 9.19   |
+| Spinal cord disorder                       | 9.56   |
+| Lower respiratory tract disorder           | 10.06  |
+| Heart disease                              | 10.17  |
+| Polyuria/polydipsia                        | 10.31  |
+| Endocrine system disorder                  | 10.84  |
+| Liver disorder                             | 11.4   |
+| Incontinence                               | 11.7   |
+| Collapsed                                  | 12.35  |
+| Disorder not diagnosed                     | 12.71  |
+
+---
+current:
+  subject: Dogs
+  topic: age
+  source: 
+    author: O'Neill, D.G., James, H., Brodbelt, D.C. et al.
+    title: Prevalence of commonly diagnosed disorders in UK dogs under primary veterinary care - results and applications. 
+    url: https://doi.org/10.1186/s12917-021-02775-3
+    license:
+      data: CC0 Public Domain
+      article: CC-BY
+  file: 
+    url: <./age.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

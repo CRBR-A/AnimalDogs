@@ -1,0 +1,90 @@
+| Precise-level disorder term                     | Min  | Max  |
+| ----------------------------------------------- | ---- | ---- |
+| Aggression                                      | 1.41 | 2.21 |
+| Seizure disorder                                | 1.23 | 2.76 |
+| Coughing                                        | 1.21 | 2.33 |
+| Adverse reaction to drug                        | 1.17 | 2.87 |
+| Foreign body                                    | 1.13 | 2.08 |
+| Moist dermatitis                                | 1.11 | 2.13 |
+| Otitis externa                                  | 1.09 | 1.39 |
+| Wound                                           | 1.05 | 1.92 |
+| Laceration                                      | 1.02 | 2.20 |
+| Osteoarthritis                                  | 1.01 | 1.52 |
+| Colitis                                         | 0.95 | 2.09 |
+| Lipoma                                          | 0.94 | 1.58 |
+| Gastroenteritis                                 | 0.93 | 1.62 |
+| Periodontal disease                             | 0.92 | 1.11 |
+| Skin mass                                       | 0.92 | 1.40 |
+| Musculoskeletal injury                          | 0.91 | 2.14 |
+| Pododermatitis                                  | 0.91 | 1.53 |
+| Diarrhoea                                       | 0.87 | 1.23 |
+| Lameness                                        | 0.86 | 1.27 |
+| Retained deciduous tooth                        | 0.86 | 1.88 |
+| Allergy                                         | 0.84 | 1.36 |
+| Claw injury                                     | 0.84 | 1.38 |
+| Ear disorder                                    | 0.84 | 1.98 |
+| Anal sac impaction                              | 0.83 | 1.11 |
+| Undesirable behaviour                           | 0.83 | 1.40 |
+| Kennel Cough                                    | 0.82 | 1.56 |
+| Conjunctivitis                                  | 0.81 | 1.23 |
+| Dietary indiscretion                            | 0.81 | 1.98 |
+| Haircoat disorder                               | 0.8  | 1.63 |
+| Heart murmur                                    | 0.8  | 1.27 |
+| Vomiting                                        | 0.8  | 1.17 |
+| Obesity                                         | 0.79 | 1    |
+| Skin lesions                                    | 0.79 | 1.77 |
+| Lethargy                                        | 0.78 | 1.85 |
+| Dog bite                                        | 0.77 | 1.59 |
+| Atopic dermatitis                               | 0.76 | 1.32 |
+| Pyoderma                                        | 0.75 | 1.24 |
+| Stiffness                                       | 0.75 | 1.57 |
+| Anxious/distressed                              | 0.74 | 1.67 |
+| Pruritus                                        | 0.74 | 1.20 |
+| Anorexia                                        | 0.72 | 1.58 |
+| Flea infestation                                | 0.71 | 1.12 |
+| Collapsed                                       | 0.7  | 1.51 |
+| Overgrown nail(s)                               | 0.7  | 0.93 |
+| Papilloma                                       | 0.7  | 1.46 |
+| Disorder unspecified                            | 0.69 | 1.59 |
+| Corneal ulceration                              | 0.67 | 1.42 |
+| Dental disease                                  | 0.67 | 1.32 |
+| Tick infestation                                | 0.66 | 1.42 |
+| Patellar luxation                               | 0.64 | 1.14 |
+| Thin                                            | 0.64 | 1.47 |
+| Alopecia                                        | 0.63 | 1.27 |
+| Cataract                                        | 0.63 | 1.21 |
+| Skin cyst                                       | 0.63 | 1.12 |
+| Dermatitis                                      | 0.6  | 1.26 |
+| Anal sac infection                              | 0.58 | 1.08 |
+| Ocular discharge                                | 0.56 | 1.17 |
+| Post-operative complication (not wound-related) | 0.56 | 1.26 |
+| Post-operative wound complication               | 0.56 | 1.26 |
+| Flea bite hypersensitivity                      | 0.55 | 1.37 |
+| Spinal pain                                     | 0.55 | 1.31 |
+| Polyuria/polydipsia                             | 0.54 | 1.29 |
+| Weight loss                                     | 0.51 | 1.18 |
+| Cruciate disease                                | 0.5  | 1.01 |
+| Umbilical hernia                                | 0.48 | 1.18 |
+| Gastritis                                       | 0.47 | 1.28 |
+| Urinary tract infection                         | 0.21 | 0.50 |
+| Urinary incontinence                            | 0.16 | 0.37 |
+| Mammary mass                                    | 0    | 0.07 |
+| Cryptorchidism                                  | -    | -    |
+
+---
+current:
+  subject: Dogs
+  topic: ratio-male-female
+  source: 
+    author: O'Neill, D.G., James, H., Brodbelt, D.C. et al.
+    title: Prevalence of commonly diagnosed disorders in UK dogs under primary veterinary care - results and applications. 
+    url: https://doi.org/10.1186/s12917-021-02775-3
+    license:
+      data: CC0 Public Domain
+      article: CC-BY
+  file: 
+    url: <./ratio-male-female.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

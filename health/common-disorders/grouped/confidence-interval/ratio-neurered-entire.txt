@@ -1,0 +1,56 @@
+| Grouped-level disorder term                | Min  | Max  |
+| ------------------------------------------ | ---- | ---- |
+| Obesity                                    | 1.27 | 1.64 |
+| Incontinence                               | 1.12 | 2.53 |
+| Dental disorder                            | 1.11 | 1.35 |
+| Musculoskeletal disorder                   | 1.06 | 1.34 |
+| Behaviour disorder                         | 1.03 | 1.39 |
+| Urinary system disorder                    | 0.98 | 1.79 |
+| Ophthalmological disorder                  | 0.97 | 1.27 |
+| Neoplasia                                  | 0.96 | 1.29 |
+| Anal sac disorder                          | 0.93 | 1.23 |
+| Enteropathy                                | 0.93 | 1.18 |
+| Ear disorder                               | 0.92 | 1.17 |
+| Skin disorder                              | 0.91 | 1.10 |
+| Endocrine system disorder                  | 0.88 | 1.78 |
+| Mass                                       | 0.88 | 1.18 |
+| Brain disorder                             | 0.87 | 1.52 |
+| Foreign body                               | 0.87 | 1.63 |
+| Polyuria/polydipsia                        | 0.84 | 2.14 |
+| Traumatic injury                           | 0.84 | 1.20 |
+| Claw/nail disorder                         | 0.82 | 1.07 |
+| Adverse reaction to drug                   | 0.77 | 1.72 |
+| Disorder not diagnosed                     | 0.76 | 1.83 |
+| Spinal cord disorder                       | 0.75 | 1.49 |
+| Upper respiratory tract disorder           | 0.75 | 1.08 |
+| Heart disease                              | 0.74 | 1.12 |
+| Lower respiratory tract disorder           | 0.72 | 1.63 |
+| Complication associated with clinical care | 0.7  | 1.14 |
+| Appetite disorder                          | 0.67 | 1.50 |
+| Parasite infestation                       | 0.64 | 0.93 |
+| Intoxication                               | 0.63 | 1.54 |
+| Collapsed                                  | 0.6  | 1.32 |
+| Liver disorder                             | 0.6  | 1.35 |
+| Lethargy                                   | 0.59 | 1.08 |
+| Hernia                                     | 0.55 | 1.31 |
+| Underweight                                | 0.48 | 0.90 |
+| Female reproductive disorder               | 0.28 | 0.50 |
+| Male reproductive system disorder          | 0.19 | 0.48 |
+
+---
+current:
+  subject: Dogs
+  topic: ratio-neurered-entire
+  source: 
+    author: O'Neill, D.G., James, H., Brodbelt, D.C. et al.
+    title: Prevalence of commonly diagnosed disorders in UK dogs under primary veterinary care - results and applications. 
+    url: https://doi.org/10.1186/s12917-021-02775-3
+    license:
+      data: CC0 Public Domain
+      article: CC-BY
+  file: 
+    url: <./ratio-neurered-entire.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

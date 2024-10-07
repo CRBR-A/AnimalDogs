@@ -1,0 +1,90 @@
+| Precise-level disorder term                     | Min  | Max  |
+| ----------------------------------------------- | ---- | ---- |
+| Obesity                                         | 1.27 | 1.64 |
+| Urinary incontinence                            | 1.23 | 2.95 |
+| Lipoma                                          | 1.18 | 2.11 |
+| Urinary tract infection                         | 1.17 | 2.92 |
+| Periodontal disease                             | 1.11 | 1.34 |
+| Osteoarthritis                                  | 1.06 | 1.67 |
+| Atopic dermatitis                               | 1.02 | 1.83 |
+| Laceration                                      | 1.01 | 2.57 |
+| Anal sac impaction                              | 0.99 | 1.34 |
+| Pododermatitis                                  | 0.98 | 1.69 |
+| Skin mass                                       | 0.96 | 1.51 |
+| Undesirable behaviour                           | 0.95 | 1.66 |
+| Cruciate disease                                | 0.91 | 1.97 |
+| Dental disease                                  | 0.89 | 1.85 |
+| Aggression                                      | 0.88 | 1.37 |
+| Foreign body                                    | 0.88 | 1.63 |
+| Diarrhoea                                       | 0.87 | 1.25 |
+| Otitis externa                                  | 0.87 | 1.13 |
+| Gastroenteritis                                 | 0.86 | 1.54 |
+| Lameness                                        | 0.85 | 1.29 |
+| Musculoskeletal injury                          | 0.85 | 1.12 |
+| Allergy                                         | 0.84 | 1.40 |
+| Cataract                                        | 0.84 | 1.71 |
+| Polyuria/polydipsia                             | 0.84 | 2.14 |
+| Colitis                                         | 0.83 | 1.90 |
+| Conjunctivitis                                  | 0.83 | 1.30 |
+| Vomiting                                        | 0.81 | 1.21 |
+| Pruritus                                        | 0.8  | 1.33 |
+| Claw injury                                     | 0.79 | 1.33 |
+| Overgrown nail(s)                               | 0.79 | 1.06 |
+| Papilloma                                       | 0.79 | 1.71 |
+| Patellar luxation                               | 0.79 | 1.47 |
+| Disorder unspecified                            | 0.78 | 1.88 |
+| Stiffness                                       | 0.78 | 1.72 |
+| Ear disorder                                    | 0.73 | 1.79 |
+| Lethargy                                        | 0.72 | 1.77 |
+| Dietary indiscretion                            | 0.7  | 1.79 |
+| Adverse reaction to drug                        | 0.67 | 1.65 |
+| Anxious/distressed                              | 0.67 | 1.57 |
+| Coughing                                        | 0.67 | 1.30 |
+| Dermatitis                                      | 0.66 | 1.44 |
+| Skin cyst                                       | 0.66 | 1.21 |
+| Tick infestation                                | 0.66 | 1.49 |
+| Kennel Cough                                    | 0.65 | 1.29 |
+| Pyoderma                                        | 0.65 | 1.10 |
+| Seizure disorder                                | 0.65 | 1.43 |
+| Retained deciduous tooth                        | 0.64 | 1.54 |
+| Corneal ulceration                              | 0.63 | 1.40 |
+| Heart murmur                                    | 0.63 | 1.02 |
+| Haircoat disorder                               | 0.62 | 1.31 |
+| Wound                                           | 0.61 | 1.13 |
+| Anorexia                                        | 0.6  | 1.36 |
+| Post-operative complication (not wound-related) | 0.6  | 1.43 |
+| Post-operative wound complication               | 0.6  | 1.43 |
+| Collapsed                                       | 0.58 | 1.29 |
+| Skin lesions                                    | 0.58 | 1.34 |
+| Anal sac infection                              | 0.57 | 1.07 |
+| Spinal pain                                     | 0.57 | 1.40 |
+| Flea infestation                                | 0.56 | 0.91 |
+| Umbilical hernia                                | 0.56 | 1.59 |
+| Moist dermatitis                                | 0.53 | 1.03 |
+| Ocular discharge                                | 0.53 | 1.18 |
+| Gastritis                                       | 0.52 | 1.48 |
+| Dog bite                                        | 0.51 | 1.10 |
+| Thin                                            | 0.49 | 1.19 |
+| Alopecia                                        | 0.48 | 1.01 |
+| Weight loss                                     | 0.41 | 0.99 |
+| Flea bite hypersensitivity                      | 0.4  | 1.02 |
+| Mammary mass                                    | 0.25 | 0.69 |
+| Cryptorchidism                                  | -    | -    |
+
+---
+current:
+  subject: Dogs
+  topic: ratio-neutered-entire
+  source: 
+    author: O'Neill, D.G., James, H., Brodbelt, D.C. et al.
+    title: Prevalence of commonly diagnosed disorders in UK dogs under primary veterinary care - results and applications. 
+    url: https://doi.org/10.1186/s12917-021-02775-3
+    license:
+      data: CC0 Public Domain
+      article: CC-BY
+  file: 
+    url: <./ratio-neutered-entire.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

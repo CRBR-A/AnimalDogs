@@ -1,0 +1,25 @@
+| Sex         | Min  | Max   |
+| ----------- | ---- | ----- |
+| both        | 0.01 | 20.46 |
+| - entire    | 0.01 | 19.83 |
+| - neutered  | 0.17 | 20.46 |
+| female      | 0.01 | 20.46 |
+| male        | 0.01 | 19.54 |
+
+---
+current:
+  subject: Dogs
+  topic: age-range
+  source: 
+    author: O'Neill, D.G., James, H., Brodbelt, D.C. et al.
+    title: Prevalence of commonly diagnosed disorders in UK dogs under primary veterinary care - results and applications. 
+    url: https://doi.org/10.1186/s12917-021-02775-3
+    license:
+      data: CC0 Public Domain
+      article: CC-BY
+  file: 
+    url: <./age-range.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

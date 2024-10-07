@@ -1,0 +1,56 @@
+| Grouped-level disorder term                | Min  | Max  |
+| ------------------------------------------ | ---- | ---- |
+| Male reproductive system disorder          | -    | -    |
+| Brain disorder                             | 1.16 | 1.99 |
+| Foreign body                               | 1.13 | 2.08 |
+| Traumatic injury                           | 1.12 | 1.58 |
+| Behaviour disorder                         | 1.07 | 1.43 |
+| Ear disorder                               | 1.07 | 1.35 |
+| Adverse reaction to drug                   | 1.05 | 2.29 |
+| Musculoskeletal disorder                   | 1.05 | 1.32 |
+| Upper respiratory tract disorder           | 1.05 | 1.49 |
+| Enteropathy                                | 0.96 | 1.19 |
+| Intoxication                               | 0.93 | 2.22 |
+| Skin disorder                              | 0.92 | 1.11 |
+| Dental disorder                            | 0.91 | 1.09 |
+| Neoplasia                                  | 0.89 | 1.19 |
+| Mass                                       | 0.82 | 1.09 |
+| Ophthalmological disorder                  | 0.82 | 1.06 |
+| Anal sac disorder                          | 0.81 | 1.05 |
+| Heart disease                              | 0.8  | 1.19 |
+| Obesity                                    | 0.79 | 1    |
+| Spinal cord disorder                       | 0.79 | 1.51 |
+| Parasite infestation                       | 0.78 | 1.11 |
+| Claw/nail disorder                         | 0.77 | 0.99 |
+| Collapsed                                  | 0.73 | 1.55 |
+| Lower respiratory tract disorder           | 0.73 | 1.58 |
+| Liver disorder                             | 0.72 | 1.58 |
+| Appetite disorder                          | 0.7  | 1.51 |
+| Underweight                                | 0.7  | 1.24 |
+| Disorder not diagnosed                     | 0.68 | 1.56 |
+| Complication associated with clinical care | 0.65 | 1.04 |
+| Endocrine system disorder                  | 0.63 | 1.20 |
+| Lethargy                                   | 0.63 | 1.20 |
+| Polyuria/polydipsia                        | 0.54 | 1.29 |
+| Hernia                                     | 0.53 | 1.17 |
+| Urinary system disorder                    | 0.33 | 0.59 |
+| Incontinence                               | 0.2  | 0.43 |
+| Female reproductive disorder               | -    | -    |
+
+---
+current:
+  subject: Dogs
+  topic: ratio-male-female
+  source: 
+    author: O'Neill, D.G., James, H., Brodbelt, D.C. et al.
+    title: Prevalence of commonly diagnosed disorders in UK dogs under primary veterinary care - results and applications. 
+    url: https://doi.org/10.1186/s12917-021-02775-3
+    license:
+      data: CC0 Public Domain
+      article: CC-BY
+  file: 
+    url: <./ratio-male-female.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

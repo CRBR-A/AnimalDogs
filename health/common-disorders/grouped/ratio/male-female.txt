@@ -1,0 +1,56 @@
+| Grouped-level disorder term                | Ratio |
+| ------------------------------------------ | ----- |
+| Male reproductive system disorder          | -     |
+| Adverse reaction to drug                   | 1.55  |
+| Foreign body                               | 1.53  |
+| Brain disorder                             | 1.52  |
+| Intoxication                               | 1.44  |
+| Traumatic injury                           | 1.33  |
+| Upper respiratory tract disorder           | 1.25  |
+| Behaviour disorder                         | 1.24  |
+| Ear disorder                               | 1.21  |
+| Musculoskeletal disorder                   | 1.18  |
+| Spinal cord disorder                       | 1.09  |
+| Enteropathy                                | 1.07  |
+| Liver disorder                             | 1.07  |
+| Lower respiratory tract disorder           | 1.07  |
+| Collapsed                                  | 1.06  |
+| Appetite disorder                          | 1.03  |
+| Disorder not diagnosed                     | 1.03  |
+| Neoplasia                                  | 1.03  |
+| Skin disorder                              | 1.01  |
+| Dental disorder                            | 1     |
+| Heart disease                              | 0.97  |
+| Mass                                       | 0.95  |
+| Ophthalmological disorder                  | 0.93  |
+| Parasite infestation                       | 0.93  |
+| Underweight                                | 0.93  |
+| Anal sac disorder                          | 0.92  |
+| Lethargy                                   | 0.9   |
+| Obesity                                    | 0.89  |
+| Claw/nail disorder                         | 0.87  |
+| Endocrine system disorder                  | 0.87  |
+| Polyuria/polydipsia                        | 0.84  |
+| Complication associated with clinical care | 0.82  |
+| Hernia                                     | 0.8   |
+| Urinary system disorder                    | 0.44  |
+| Incontinence                               | 0.29  |
+| Female reproductive disorder               | -     |
+
+---
+current:
+  subject: Dogs
+  topic: ratio-male-female
+  source: 
+    author: O'Neill, D.G., James, H., Brodbelt, D.C. et al.
+    title: Prevalence of commonly diagnosed disorders in UK dogs under primary veterinary care - results and applications. 
+    url: https://doi.org/10.1186/s12917-021-02775-3
+    license:
+      data: CC0 Public Domain
+      article: CC-BY
+  file: 
+    url: <./ratio-male-female.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

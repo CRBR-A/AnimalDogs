@@ -1,0 +1,90 @@
+| Precise-level disorder term                     | Percent |
+| ----------------------------------------------- | ------- |
+| Periodontal disease                             | 12.52   |
+| Otitis externa                                  | 7.3     |
+| Obesity                                         | 7.07    |
+| Overgrown nail(s)                               | 5.52    |
+| Anal sac impaction                              | 4.8     |
+| Diarrhoea                                       | 3.81    |
+| Vomiting                                        | 3.04    |
+| Lameness                                        | 2.65    |
+| Osteoarthritis                                  | 2.34    |
+| Aggression                                      | 2.24    |
+| Conjunctivitis                                  | 2.24    |
+| Heart murmur                                    | 2.13    |
+| Skin mass                                       | 2.07    |
+| Flea infestation                                | 2.05    |
+| Pruritus                                        | 1.63    |
+| Allergy                                         | 1.57    |
+| Undesirable behaviour                           | 1.5     |
+| Pyoderma                                        | 1.46    |
+| Lipoma                                          | 1.44    |
+| Claw injury                                     | 1.38    |
+| Pododermatitis                                  | 1.36    |
+| Gastroenteritis                                 | 1.33    |
+| Foreign body                                    | 1.27    |
+| Post-operative wound complication               | 1.19    |
+| Atopic dermatitis                               | 1.15    |
+| Wound                                           | 1.12    |
+| Skin cyst                                       | 1.1     |
+| Patellar luxation                               | 1.04    |
+| Retained deciduous tooth                        | 1.01    |
+| Coughing                                        | 0.99    |
+| Kennel Cough                                    | 0.96    |
+| Cataract                                        | 0.94    |
+| Umbilical hernia                                | 0.93    |
+| Anal sac infection                              | 0.9     |
+| Moist dermatitis                                | 0.9     |
+| Alopecia                                        | 0.83    |
+| Haircoat disorder                               | 0.82    |
+| Disorder unspecified                            | 0.81    |
+| Thin                                            | 0.79    |
+| Dental disease                                  | 0.79    |
+| Urinary incontinence                            | 0.78    |
+| Corneal ulceration                              | 0.77    |
+| Dog bite                                        | 0.74    |
+| Ocular discharge                                | 0.74    |
+| Laceration                                      | 0.72    |
+| Dermatitis                                      | 0.72    |
+| Collapsed                                       | 0.71    |
+| Skin lesions                                    | 0.7     |
+| Colitis                                         | 0.69    |
+| Seizure disorder                                | 0.68    |
+| Tick infestation                                | 0.68    |
+| Papilloma                                       | 0.67    |
+| Cruciate disease                                | 0.67    |
+| Post-operative complication (not wound-related) | 0.66    |
+| Anorexia                                        | 0.65    |
+| Stiffness                                       | 0.64    |
+| Urinary tract infection                         | 0.59    |
+| Anxious/distressed                              | 0.58    |
+| Cryptorchidism                                  | 0.57    |
+| Lethargy                                        | 0.56    |
+| Dietary indiscretion                            | 0.56    |
+| Weight loss                                     | 0.54    |
+| Adverse reaction to drug                        | 0.52    |
+| Musculoskeletal injury                          | 0.51    |
+| Ear disorder                                    | 0.51    |
+| Polyuria/polydipsia                             | 0.49    |
+| Flea bite hypersensitivity                      | 0.48    |
+| Gastritis                                       | 0.47    |
+| Spinal pain                                     | 0.46    |
+| Mammary mass                                    | 0.46    |
+
+---
+current:
+  subject: Dogs
+  topic: percent
+  source: 
+    author: O'Neill, D.G., James, H., Brodbelt, D.C. et al.
+    title: Prevalence of commonly diagnosed disorders in UK dogs under primary veterinary care - results and applications. 
+    url: https://doi.org/10.1186/s12917-021-02775-3
+    license:
+      data: CC0 Public Domain
+      article: CC-BY
+  file: 
+    url: <./percent.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

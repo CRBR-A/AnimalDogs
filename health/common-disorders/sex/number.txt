@@ -1,0 +1,29 @@
+| Sex         | Number |
+| ----------- | ------ |
+| Both        | 22333  |
+| - entire    | 12236  |
+| - neutered  | 10097  |
+| Males       | 11793  |
+| - entire    | 6552   |
+| - neutered  | 5241   |
+| Females     | 10540  |
+| - entire    | 5684   |
+| - neutered  | 4856   |
+
+---
+current:
+  subject: Dogs
+  topic: number
+  source: 
+    author: O'Neill, D.G., James, H., Brodbelt, D.C. et al.
+    title: Prevalence of commonly diagnosed disorders in UK dogs under primary veterinary care - results and applications. 
+    url: https://doi.org/10.1186/s12917-021-02775-3
+    license:
+      data: CC0 Public Domain
+      article: CC-BY
+  file: 
+    url: <./number.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

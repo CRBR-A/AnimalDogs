@@ -1,0 +1,56 @@
+| Grouped-level disorder term                | Number |
+| ------------------------------------------ | ------ |
+| Dental disorder                            | 3148   |
+| Skin disorder                              | 2810   |
+| Enteropathy                                | 2330   |
+| Musculoskeletal disorder                   | 1929   |
+| Ear disorder                               | 1825   |
+| Obesity                                    | 1580   |
+| Claw/nail disorder                         | 1577   |
+| Ophthalmological disorder                  | 1567   |
+| Anal sac disorder                          | 1248   |
+| Mass                                       | 1169   |
+| Behaviour disorder                         | 1140   |
+| Neoplasia                                  | 1140   |
+| Parasite infestation                       | 850    |
+| Traumatic injury                           | 822    |
+| Upper respiratory tract disorder           | 789    |
+| Heart disease                              | 633    |
+| Complication associated with clinical care | 417    |
+| Female reproductive disorder               | 328    |
+| Brain disorder                             | 320    |
+| Underweight                                | 316    |
+| Foreign body                               | 283    |
+| Lethargy                                   | 273    |
+| Urinary system disorder                    | 267    |
+| Hernia                                     | 255    |
+| Spinal cord disorder                       | 216    |
+| Male reproductive system disorder          | 199    |
+| Incontinence                               | 192    |
+| Endocrine system disorder                  | 191    |
+| Disorder not diagnosed                     | 181    |
+| Collapsed                                  | 164    |
+| Appetite disorder                          | 156    |
+| Intoxication                               | 154    |
+| Lower respiratory tract disorder           | 151    |
+| Adverse reaction to drug                   | 151    |
+| Liver disorder                             | 128    |
+| Polyuria/polydipsia                        | 110    |
+
+---
+current:
+  subject: Dogs
+  topic: number
+  source: 
+    author: O'Neill, D.G., James, H., Brodbelt, D.C. et al.
+    title: Prevalence of commonly diagnosed disorders in UK dogs under primary veterinary care - results and applications. 
+    url: https://doi.org/10.1186/s12917-021-02775-3
+    license:
+      data: CC0 Public Domain
+      article: CC-BY
+  file: 
+    url: <./number.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

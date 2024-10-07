@@ -1,0 +1,56 @@
+| Grouped-level disorder term                | Min   | Max   |
+| ------------------------------------------ | ----- | ----- |
+| Dental disorder                            | 13.64 | 14.56 |
+| Skin disorder                              | 12.15 | 13.02 |
+| Enteropathy                                | 10.04 | 10.84 |
+| Musculoskeletal disorder                   | 8.27  | 9.01  |
+| Ear disorder                               | 7.82  | 8.54  |
+| Obesity                                    | 6.74  | 7.42  |
+| Claw/nail disorder                         | 6.73  | 7.41  |
+| Ophthalmological disorder                  | 6.68  | 7.36  |
+| Anal sac disorder                          | 5.29  | 5.90  |
+| Mass                                       | 4.95  | 5.53  |
+| Behaviour disorder                         | 4.82  | 5.40  |
+| Neoplasia                                  | 4.82  | 5.40  |
+| Parasite infestation                       | 3.56  | 4.07  |
+| Traumatic injury                           | 3.44  | 3.94  |
+| Upper respiratory tract disorder           | 3.29  | 3.78  |
+| Heart disease                              | 2.62  | 3.06  |
+| Complication associated with clinical care | 1.69  | 2.05  |
+| Female reproductive disorder               | 1.32  | 1.64  |
+| Brain disorder                             | 1.28  | 1.60  |
+| Underweight                                | 1.26  | 1.58  |
+| Foreign body                               | 1.12  | 1.42  |
+| Lethargy                                   | 1.08  | 1.38  |
+| Urinary system disorder                    | 1.06  | 1.35  |
+| Hernia                                     | 1.01  | 1.29  |
+| Spinal cord disorder                       | 0.84  | 1.10  |
+| Male reproductive system disorder          | 0.77  | 1.02  |
+| Incontinence                               | 0.74  | 0.99  |
+| Endocrine system disorder                  | 0.74  | 0.98  |
+| Disorder not diagnosed                     | 0.7   | 0.94  |
+| Collapsed                                  | 0.63  | 0.86  |
+| Appetite disorder                          | 0.59  | 0.82  |
+| Intoxication                               | 0.59  | 0.81  |
+| Lower respiratory tract disorder           | 0.57  | 0.79  |
+| Adverse reaction to drug                   | 0.57  | 0.79  |
+| Liver disorder                             | 0.48  | 0.68  |
+| Polyuria/polydipsia                        | 0.41  | 0.59  |
+
+---
+current:
+  subject: Dogs
+  topic: percent
+  source: 
+    author: O'Neill, D.G., James, H., Brodbelt, D.C. et al.
+    title: Prevalence of commonly diagnosed disorders in UK dogs under primary veterinary care - results and applications. 
+    url: https://doi.org/10.1186/s12917-021-02775-3
+    license:
+      data: CC0 Public Domain
+      article: CC-BY
+  file: 
+    url: <./percent.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...
